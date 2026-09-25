@@ -1,4 +1,4 @@
-a <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=2EC4B6&center=true&vCenter=true&width=640&height=60&lines=Hi!+I'm+Chaitanya+(Kei)+%F0%9F%91%8B;I+build+apps+people+can+actually+use.;Flutter+%C2%B7+React+Native+%C2%B7+Node.js" alt="Typing intro" />
 
